@@ -34,6 +34,13 @@
       "sName":"Holmes",
       "userSince":"Friday, 21st of August, 2020",
       "carbonSaved":871463
+    },
+    {
+      "id":6,
+      "fName":"Luke",
+      "sName":"Humphries",
+      "userSince":"Sunday, 9th of August, 2020",
+      "carbonSaved":420690
     }
   ]
 }
