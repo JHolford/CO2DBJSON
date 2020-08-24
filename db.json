@@ -2,8 +2,8 @@
   "posts":[
     {
       "id":1,
-      "fName":"Joe",
-      "sName":"Holford",
+      "fName":"Johnny",
+      "sName":"Johnson",
       "userSince":"Friday, 7th of August, 2020",
       "carbonSaved":634128
     },
