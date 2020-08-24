@@ -1,0 +1,39 @@
+{
+  "users":[
+    {
+      "id":"1",
+      "fName":"Joe",
+      "sName":"Holford",
+      "userSince":"Friday, 7th of August, 2020",
+      "carbonSaved":"634128",
+    },
+    {
+      "id":"2",
+      "fName":"Alex",
+      "sName":"Roberts",
+      "userSince":"Wednesday, 5th of August, 2020",
+      "carbonSaved":"231454",
+    },
+    {
+      "id":"3",
+      "fName":"Sarah",
+      "sName":"Rollins",
+      "userSince":"Tuesday, 18th of August, 2020",
+      "carbonSaved":"72896",
+    },
+    {
+      "id":"4",
+      "fName":"Rachel",
+      "sName":"Langley",
+      "userSince":"Monday, 3rd of August, 2020",
+      "carbonSaved":"315846",
+    },
+    {
+      "id":"5",
+      "fName":"Helen",
+      "sName":"Holmes",
+      "userSince":"Friday, 21st of August, 2020",
+      "carbonSaved":"871463",
+    }
+  ]
+}
